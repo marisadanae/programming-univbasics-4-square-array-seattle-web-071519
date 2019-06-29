@@ -1,5 +1,5 @@
 def square_array(array)
-  while 
+  while
   numbers = []
   square_array(numbers)
 end
